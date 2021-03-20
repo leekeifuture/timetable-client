@@ -4,7 +4,7 @@ import dashboardStyle
     from 'assets/jss/material-dashboard-pro-react/views/dashboardStyle'
 import PropTypes from 'prop-types'
 import React from 'react'
-import Timetable from './Timetavle'
+import Timetable from './Timetable'
 
 class TimetableContainer extends React.Component {
     render() {
